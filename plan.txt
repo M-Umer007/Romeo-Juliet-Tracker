@@ -1,0 +1,5 @@
+Stack:
+I will be using python for this project
+
+Plan:
+User starts the application and now the terminal is sitting inthe background ... the user encounter a name which he couldn't recall by its background so he just clicks alt+tab then write the starting key words of that character and the terminal give the full character's name with background.

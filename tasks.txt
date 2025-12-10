@@ -1,0 +1,5 @@
+Tasks:
+1. Create a key-value pair dictionary (done)
+2. Give some key words for a character and paste the background of that character to each of its keywords(done)
+3. Taking input from user and printing output accordingly(done)
+4. Additionaly .... adding a while loop so it keeps asking the name and if the user type "x" then break the loop 

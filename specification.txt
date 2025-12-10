@@ -1,0 +1,5 @@
+Why am i creating this?
+Because i have to read romeo and juliet and in the middle of some scene when a character's name is written it is difficult to recall its initial background(defined before the start of the novel) and for this reason i will be creating this project.
+
+What am i creating?
+A simple script that will have the starting data of some characters ... i type one name or the starting and it will give me the full contex and background of that character.
